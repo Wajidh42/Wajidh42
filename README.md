@@ -12,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/wajidh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wajidh42" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-wajidh-2bb42b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-wajidh-2bb42b220" height="30" width="40" /></a>
 <a href="https://instagram.com/wajidh_abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wajidh_abdul" height="30" width="40" /></a>
 </p>
 
